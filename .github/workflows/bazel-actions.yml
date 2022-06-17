@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       BD_URL: ${{ secrets.BLACKDUCK_URL }}
-      PROJECT_NAME: 'MK-woven-bd-c-cpp-test'
+      PROJECT_NAME: 'SLS-GitHub-Actions-BD-C-CPP-Test'
       API_TOKEN: ${{ secrets.BLACKDUCK_TESTSERVER_TOKEN }} 
 
     steps:
