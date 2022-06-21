@@ -1,3 +1,6 @@
+## change to force build
+
+##
 name: Github Actions Bazel Test
 
 on:
